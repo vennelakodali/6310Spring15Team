@@ -1,4 +1,6 @@
 CONTACT INFO FOR TEAM 24 - THE BEST TEAM!
 
-<First name>  <Last name>,  <GT login>,  <email address>           <phone>	    <City, State Country>
-  Malik	       Stalbert     mstalbert3   masx9000@gmail.com      (909)938-6508 ,    Colton,  CA, USA
+<First name>  <Last name>,  <GT login>,  <email address>            <phone>	           <City, State Country>
+Malik	       Stalbert     mstalbert3   masx9000@gmail.com           (909)938-6508 ,    Colton,  CA, USA
+Vennela      Kodali       vkodali6     vennelakodali@gmail.com      (608)512-5313 ,    Madison, WI, USA
+(I'm currently on a vacation in India and would not be available on phone. Sorry about that.)
